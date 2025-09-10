@@ -1,5 +1,5 @@
 # INFNI
-Протокол IN王NI бесконечного сжатия данных и их обратной распаковки.
+Протокол IN王ИI бесконечного сжатия данных и их обратной распаковки.
 
 
 
@@ -13,7 +13,7 @@
 если я там нахожусь, и полностью ∞.
 
 ---
-IN王NI protocol of infinite data compression and decompression
+IN王ИI protocol of infinite data compression and decompression
 
 
 © ∞ Uni∞rsE. All rights reserved.
