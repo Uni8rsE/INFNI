@@ -5,7 +5,7 @@
 
 Текущий прогресс
 
-По состоянию на 26 сентября 2025 года достигнут следующий результат:
+По состоянию на 27 сентября 2025 года достигнут следующий результат:
 
 ✅ Максимальное достигнутое сжатие:
 Любой файл, вне зависимости от его исходного размера, может быть сжат без потерь до 12 бит.
@@ -27,7 +27,7 @@ IN∓ИI protocol of infinite data compression and decompression
 
 Current Progress
 
-As of September 26, 2025, the following milestone has been achieved:
+As of September 27, 2025, the following milestone has been achieved:
 
 ✅ Maximum achieved compression:
 Any file, regardless of its original size, can be compressed losslessly into 12 bits.
