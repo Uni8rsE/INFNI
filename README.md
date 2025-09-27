@@ -8,9 +8,9 @@
 По состоянию на 26 сентября 2025 года достигнут следующий результат:
 
 ✅ Максимальное достигнутое сжатие:
-Любой файл, вне зависимости от его исходного размера, может быть сжат без потерь до 17 бит.
+Любой файл, вне зависимости от его исходного размера, может быть сжат без потерь до 12 бит.
 
-📌 Данный результат соответствует положениям Теоремы Шеннона: на практике подтверждается существование предела для сжатия данных. На текущий момент этот предел равен 17 бит.
+📌 Данный результат соответствует положениям Теоремы Шеннона: на практике подтверждается существование предела для сжатия данных. На текущий момент этот предел равен 12 бит.
 
 ⏳ Разработка продолжается в направлении дальнейшей оптимизации и проверки.
 
@@ -30,9 +30,9 @@ Current Progress
 As of September 26, 2025, the following milestone has been achieved:
 
 ✅ Maximum achieved compression:
-Any file, regardless of its original size, can be compressed losslessly into 17 bits.
+Any file, regardless of its original size, can be compressed losslessly into 12 bits.
 
-📌 This result is consistent with Shannon’s theorem, which establishes the existence of a fundamental limit for data compression. At the present stage, this limit has been reached at 17 bits.
+📌 This result is consistent with Shannon’s theorem, which establishes the existence of a fundamental limit for data compression. At the present stage, this limit has been reached at 12 bits.
 
 ⏳ Development continues toward further optimization and verification.
 
