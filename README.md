@@ -1,5 +1,6 @@
-# INFNI
-Протокол IN∓ИI бесконечного сжатия данных и их обратной распаковки.
+# <img width="250" height="250" alt="INFNI" src="https://github.com/user-attachments/assets/db60cefe-1b53-4339-b06c-2e30add36743" />
+
+Протокол I⋈王⋈I бесконечного сжатия данных и их обратной распаковки.
 
 
 
